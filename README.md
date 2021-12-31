@@ -1,0 +1,2 @@
+# galang
+Start mining
